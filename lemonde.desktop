@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Le Monde
+Comment=Application Le Monde pour Ubuntu Touch
+Exec=qmlscene qml/Main.qml
+Icon=assets/lemonde-icon.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Supported-Orientations=portrait;landscape;
